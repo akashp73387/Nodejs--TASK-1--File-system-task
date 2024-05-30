@@ -3,16 +3,19 @@ This API creates a webserver on port 2002 which has two end points 'create' and 
 /read : will retreive and returns a list of all text files in the same folder.
 
 Render URL:
-
-     CREATE :
-              CreateFiles:  https://nodejs-task-1-file-system-task.onrender.com/createFile
+ 
+ CREATE :
+ 
+        CreateFiles:  https://nodejs-task-1-file-system-task.onrender.com/createFile
               
         
-     GET :  
-              GetFiles:   https://nodejs-task-1-file-system-task.onrender.com/getFiles
+ GET : 
    
-    Postman documentation:
+       GetFiles:   https://nodejs-task-1-file-system-task.onrender.com/getFiles
+       
+   
+Postman documentation:
     
-              https://documenter.getpostman.com/view/33815447/2sA3Qv6q9p
+       https://documenter.getpostman.com/view/33815447/2sA3Qv6q9p
 
       
