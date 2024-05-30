@@ -6,12 +6,12 @@ Render URL:
  
  CREATE :
  
-        CreateFiles:  https://nodejs-task-1-file-system-task.onrender.com/createFile
+     https://nodejs-task-1-file-system-task.onrender.com/createFile
               
         
  GET : 
    
-       GetFiles:   https://nodejs-task-1-file-system-task.onrender.com/getFiles
+    https://nodejs-task-1-file-system-task.onrender.com/getFiles
        
    
 Postman documentation:
