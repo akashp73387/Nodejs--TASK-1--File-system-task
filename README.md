@@ -1,6 +1,6 @@
 This API creates a webserver on port 2002 which has two end points 'create' and 'get'.
 /create: Generates a text file in a  folder named TimeStamp.The content of the file is the current time stamp.The filename is the current date-time.txt[dd-mm-yyyy hh-mm-ss.txt].
-/read : will retreive and returns a list of all text files in the same folder.
+/get : will retreive and returns a list of all text files in the same folder.
 
 Render URL:
  
